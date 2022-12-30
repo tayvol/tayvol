@@ -1,14 +1,7 @@
-# Tanaya bedase
-
-[![MasterHead](https://i.pinimg.com/originals/f4/6c/4f/f46c4f0c2842ed57ac3670e35faaa411.gif)](https://tayvol.io)
 <h1 align="center">Hi 👋, I'm Tanaya Bedase</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-
-
+<h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9a/67/f3/9a67f3e4f07b2a74062e61ff4fd72668.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayvol&label=Profile%20views&color=0e75b6&style=flat" alt="tayvol" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayvol" alt="tayvol" /></a> </p>
 
 - 🔭 I’m currently working on [All This Time](https://tayvol.github.io/allthistime/)
 
