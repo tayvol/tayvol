@@ -3,8 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9a/67/f3/9a67f3e4f07b2a74062e61ff4fd72668.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayvol&label=Profile%20views&color=0e75b6&style=flat" alt="tayvol" /> </p>
 
-- 🔭 I’m currently working on [All This Time](https://tayvol.github.io/allthistime/)
-- 🔭 I’m currently working on [Midnights](https://tayvol.github.io/MIDNIGHTS/)
+- 🔭 I’m currently working on [All This Time](https://tayvol.github.io/allthistime/) & [Midnights](https://tayvol.github.io/MIDNIGHTS/)
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
 - 💬 Ask me about **Web Development**
